@@ -1,4 +1,4 @@
-# Student Portflio
+# Student Portfolio
 
 Hey!! Welcome to my Portfolio 
 This is a site which will showcase the personal portfolio of the student.
